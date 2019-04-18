@@ -15,8 +15,6 @@ npm install
 ## Built With
 
 * [Reactjs](https://reactjs.org/) - The web framework used
-* [Mockapi.io](https://www.mockapi.io/) - Used for building APIs
-* [Axios](https://github.com/axios) - Used for API Calls
 
 ## About Authar
 
