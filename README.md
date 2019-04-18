@@ -1,6 +1,9 @@
 # Reactjs Todo List Web App
 This project is created using [Create React App](https://github.com/facebook/create-react-app).
 
+##Demo
+* [Click Here!](https://reactjs-todolist-app.netlify.com/) for live demo.
+
 ## Installation
 
 Use the node package manager [npm](#) to install project dependencies.
@@ -8,6 +11,12 @@ Use the node package manager [npm](#) to install project dependencies.
 ```bash
 npm install
 ```
+
+## Built With
+
+* [Reactjs](https://reactjs.org/) - The web framework used
+* [Mockapi.io](https://www.mockapi.io/) - Used for building APIs
+* [Axios](https://github.com/axios) - Used for API Calls
 
 ## About Authar
 
